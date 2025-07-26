@@ -30,4 +30,5 @@ dist/
 build/
 
 # Splash or other big media (optional)
-*.gif
+# *.gif        <-- comment this out or delete it
+
